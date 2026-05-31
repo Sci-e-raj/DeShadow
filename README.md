@@ -1,4 +1,4 @@
-# LumaRestore: Automated Shadow Detection & Removal
+# DeShadow: Automated Shadow Detection & Removal
 
 > A comprehensive computer vision pipeline for automated shadow detection and illumination restoration, leveraging both classical morphological processing and deep learning segmentation.
 
